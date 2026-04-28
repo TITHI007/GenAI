@@ -1,4 +1,4 @@
-# 🚀 Generative AI – Complete Guide
+# 🚀 Generative AI – BAsic Notes
 
 ## 📌 Overview
 This repository contains structured notes and concepts on **Generative AI**, including its foundations, architectures, and advanced topics like RAG and Agentic AI.
