@@ -48,6 +48,10 @@ Generative AI is a subset of deep learning that generates new content.
 
 ---
 
+Gen AI is more towards conversational, contextual understanding(needs massive GPU, infrastructure, data centers)
+
+
+
 ## 💬 Large Language Models (LLMs)
 
 LLMs are models designed for:
@@ -55,10 +59,12 @@ LLMs are models designed for:
 - Generating human-like text  
 
 Examples:
-- OpenAI  
-- Gemini  
-- Claude  
-- Copilot  
+- OpenAI [All purpose]  
+- Gemini [All purpose]  
+- Claude [good at code generation]  
+- Copilot 
+- Grok
+- Perplexity 
 
 ---
 
@@ -110,7 +116,7 @@ Adapting a pretrained model for specific use cases.
 ### ❗ Problems Solved
 - Knowledge cutoff  
 - No access to private data  
-- Hallucinations  
+- Hallucinations  (Answers based on facts, not guesses)
 
 ---
 
@@ -130,14 +136,7 @@ Adapting a pretrained model for specific use cases.
 ---
 
 ## 🏗️ System Architecture
-Typical pipeline:
-- Source documents (PDFs, data)  
-- Chunking  
-- Embeddings  
-- Vector store  
-- Similarity search  
-- LLM  
-- Final response  
+![Architecture Diagram](images/architecture.png)
 
 ---
 
@@ -158,8 +157,7 @@ Agentic AI systems can:
 ---
 
 ## 🧠 Agent Workflow
-User → AI → Plan → Tools → Memory → Output  
-(with continuous feedback loop)
+![Workflow](images/AgenticAI.png)
 
 ---
 
@@ -182,23 +180,12 @@ User → AI → Plan → Tools → Memory → Output
 
 ---
 
-## 📊 Full Pipeline Overview
-- User Query  
-- Prompt Engineering  
-- LLM Processing  
-- Embeddings  
-- Vector Database  
-- RAG  
-- Final Response  
-
----
-
 ## 📌 Conclusion
 Generative AI enables machines to:
 - Understand context  
 - Generate content  
 - Assist humans intelligently  
 
-However, responsible and ethical implementation is critical.
+Responsible and ethical implementation is critical.
 
 ---
