@@ -137,7 +137,7 @@ Adapting a pretrained model for specific use cases.
 
 ## 🏗️ System Architecture
 ![Architecture Diagram](images/architecture.png)
-
+*Source: Screenshot from [Udemy Course – Generative AI for Beginners] by Aakriti E-Learning Academy*
 ---
 
 ## 🤖 Agentic AI
@@ -156,8 +156,10 @@ Agentic AI systems can:
 
 ---
 
-## 🧠 Agent Workflow
+## 🧠 Agent AI System
 ![Workflow](images/AgenticAI.png)
+
+*Source: Screenshot from [Udemy Course – Generative AI for Beginners] by Aakriti E-Learning Academy*
 
 ---
 
