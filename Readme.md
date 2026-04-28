@@ -136,7 +136,7 @@ Adapting a pretrained model for specific use cases.
 ---
 
 ## 🏗️ System Architecture
-![Architecture Diagram](images/architecture.png)<br><sub>Source: Screenshot from Udemy course  "Generative AI Fundamentals by Aakriti E-Learning Academy"</sub>
+![Architecture Diagram](images/architecture.png)
 ---
 
 ## 🤖 Agentic AI
@@ -186,5 +186,12 @@ Generative AI enables machines to:
 - Assist humans intelligently  
 
 Responsible and ethical implementation is critical.
+
+---
+
+## 🖼️ Image Credits
+
+- System Architecture.png → Udemy (Generative AI Fundamentals by Aakriti E-Learning Academy)
+- Agent AI System.png → Udemy (Generative AI Fundamentals by Aakriti E-Learning Academy)
 
 ---
