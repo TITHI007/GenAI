@@ -116,7 +116,7 @@ Adapting a pretrained model for specific use cases.
 ### ❗ Problems Solved
 - Knowledge cutoff  
 - No access to private data  
-- Hallucinations  (Answers based on facts, not guesses)
+- Hallucinations  (Answers based on guesses, not facts)
 
 ---
 
